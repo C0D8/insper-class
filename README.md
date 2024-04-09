@@ -4,6 +4,8 @@ Neste projeto, criamos uma plataforma composta por microsserviços que, em conju
 
 Para cada um destes itens foi criado um microsserviço, além de reutilizarmos os de **Account** e **Auth** que já haviamos desenvolvido na matéria anteriormente.
 
+Cada um dos repositórios abaixo que são referentes ao *resource* possuem um link que leva diretamente ao swagger daquele microsserviço, isto é, quando colocado no ar, o swagger mostrará todas as informações relacionadas a API construída.
+
 ## Account
 
 https://github.com/C0D8/insper-class-account
