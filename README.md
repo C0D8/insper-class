@@ -34,3 +34,21 @@ https://github.com/C0D8/insper-class-monitoria-resource
 https://github.com/C0D8/insper-class-departamento
 
 https://github.com/C0D8/insper-class-departamento-resource
+
+## Outros repositórios importantes
+
+### Docker API
+
+https://github.com/C0D8/insper-class-docker-api
+
+### Gateway
+
+https://github.com/C0D8/insper-class-gateway
+
+### Discovery
+
+https://github.com/C0D8/insper-class-discovery
+
+### Ops
+
+https://github.com/C0D8/insper-class-ops
