@@ -10,7 +10,11 @@ https://github.com/C0D8/insper-class-account
 
 https://github.com/C0D8/insper-class-account-resource
 
+## Auth
 
+https://github.com/C0D8/insper-class-auth
+
+https://github.com/C0D8/insper-class-auth-resource
 
 
 ## Aula
