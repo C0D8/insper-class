@@ -57,3 +57,7 @@ https://github.com/C0D8/insper-class-discovery
 ### Ops
 
 https://github.com/C0D8/insper-class-ops
+
+### DB
+
+https://github.com/C0D8/insper-class-db
