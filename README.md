@@ -1,14 +1,16 @@
 # Projeto Insper Classroom
 
 
-Feito por Matheus Aguiar e Leonardo Scarlato
+Feito por [Matheus Aguiar](https://github.com/C0D8) e [Leonardo Scarlato](https://github.com/leoscarlato)
 
 ## Sobre o projeto
 
-O projeto Insper Classroom consiste em um serviço que visa facilitar a organização e o gerenciamento de aulas, e suas respectivas monitorias e departamentos. Para cada um destes elementos, criamos um microserviço, além de termos implementado dois outros microserviços para autenticação (*Auth*) e gerenciamento de contas (*Account*).
+O projeto **Insper Classroom** consiste em um serviço que visa facilitar a organização e o gerenciamento de aulas, e suas respectivas monitorias e departamentos. Para cada um destes elementos, criamos um microserviço, além de termos implementado dois outros microserviços para autenticação (*Auth*) e gerenciamento de contas (*Account*).
 
 ## Arquitetura
-<!-- gateway, discovery, etc. -->
+
+![Arquitetura](img/Screenshot_22.png)
+
 O projeto foi desenvolvido utilizando uma arquitetura de microserviços, com o uso de containers *Docker*. Para facilitar a comunicação entre os microserviços, foi implementado um *Gateway*, que redireciona as requisições para o microserviço correto. Além disso, foi implementado um serviço de descoberta (*Discovery*), que permite que os microserviços se registrem e se descubram automaticamente.
 
 Na arquitetura do projeto, temos os seguintes microserviços:
